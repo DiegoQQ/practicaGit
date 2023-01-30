@@ -2,8 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
-.cabecera{
-    margin: auto;
-    color: blueviolet;
-    width: 500px;
+#container{
+    text-align: center;
+    width: 80%;
+    border: 1px solid rgb(110, 110, 110);
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 1em;
+}
+#container h2{
+    font-size: 30px;
 }
